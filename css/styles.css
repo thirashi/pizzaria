@@ -1,0 +1,72 @@
+body{
+background-color: ;
+}
+img{
+	 width:20;
+    
+    height:auto;
+}
+
+#tagLine{
+	font-family: 'Nanum Brush Script', cursive;
+
+}
+
+#intro{
+
+	text-align: center;
+}
+.pizza{
+	margin: auto;
+    width: 60%;
+    border: 3px solid #87CEEB;
+    padding: 10px;
+}
+#menu {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.menuTitle{
+	text-align-last: center;
+}
+
+#visit{
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#topMenu{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #87CEEB;
+} 
+
+.guide{
+	float:left;
+}
+
+.guide a{
+ 	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.guide a:hover{
+ 	background-color: #111;
+}
+
+#subscribe{
+	margin: auto;
+    width: 60%;
+    border: 3px solid #87CEEB;
+    padding: 10px;
+    text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+
+
+}
